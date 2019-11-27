@@ -12,7 +12,6 @@ Required Dependencies:
 IDE to run the python code(Ex. Spyder)
 Install below mentioned dependent packages using PIP installer.
 lightgbm, pandas, sklearn 
-Execute GroupSubmission-100.py in Python Console.
 
 This code fit the data to RandomForestRegressor model. If required clean the data again and change the parameters of the lightgbm model and check the accuracy.
 
